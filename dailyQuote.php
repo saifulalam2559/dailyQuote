@@ -5,7 +5,7 @@ $quotes = [
     "Small daily improvements lead to big results.",
     "Your only limit is your mindset.",
     "Consistency beats motivation.",
-    "Dream it. Plan it. Do it."
+    "Dream it. Plan it. Do it.yes"
 ];
 
 // Select random quote
